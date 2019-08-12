@@ -22,7 +22,7 @@ const ShoppingCart = props => {
 				<p>Total: ${getCartTotal()}</p>
 				<button>Checkout</button>
 			</div>
-		</div>
+		</div> 
 	);
 };
 
